@@ -1,0 +1,72 @@
+/* selector { 
+        Property: value;
+        Another-property: another value;
+}
+*/
+
+
+h1 {
+    Color: darkred;
+    text-align: center;
+}
+
+.sticky-title {
+    position: sticky;
+    top:0;
+    background-color: white;
+    z-index:100;
+}
+
+#Geico-ins {
+    Color: darkblue
+}
+
+#pro-ins {
+    Color:rgb(38, 145, 211)
+}
+
+div {
+    border-style: dashed;
+    border-color: teal
+}
+
+h3 {
+    text-align: center;
+}
+
+.Carrier {
+    padding: 50px;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: auto;
+    font-weight: 200;
+    color: rgb(107, 5, 5);
+}
+
+a {
+    color:rgb(0, 4, 255);
+    Text-decoration: none
+}
+
+a:hover {
+    color:rgb(100, 10, 10);
+    text-decoration: underline
+}
+
+.carrier-photos{
+    width: 500px;
+    display: inline-block;
+}
+
+.hero{
+    color:white;
+    background-image: url(../images/Signet\ Logo\ jpeg.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 400px;
+}
+
+/* top, bottom, right, center */
+
